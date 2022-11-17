@@ -1,6 +1,8 @@
 .env
+token.txt
 node_modules
 
 package.json
 
 package-lock.json
+thunder-tests

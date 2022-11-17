@@ -1,9 +1,3 @@
-//setting up connection
-
-//mongodb+srv://MEN_Api_Neha:<password>@cluster0.dy4blsl.mongodb.net/?retryWrites=true&w=majority
-
-//MEN_Api_Neha  , password: men1234
-
 
 const mongoose = require('mongoose');
 const db=mongoose.connection;

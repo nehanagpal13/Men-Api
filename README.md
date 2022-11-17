@@ -1,2 +1,2 @@
 # Men-Api
-REST API (using Men Stack)
+aetting up REST API (using Men Stack)
